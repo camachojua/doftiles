@@ -1,2 +1,12 @@
-# doftiles
-Just another repository for generic dotfiles
+# Dot Files
+
+This repository contains all the dotfiles that I need to deploy a system quickly
+
+## Dependencies
+
++ `setxkbmap`
++ `xinput`
++ `feh`
++ `compton`
++ `dwm`
++ `cmus`
